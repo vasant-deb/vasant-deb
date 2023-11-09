@@ -2,14 +2,7 @@
 
 I'm Vasant Sharma, a results-driven Full Stack Developer with over 5 years of experience in creating elegant and high-performing MEAN STACK and PHP/MySQL web applications. I'm passionate about crafting seamless user experiences and optimizing application performance.
 
-🔭 I’m currently working on: 
-Developing and Designing a powerfull POS tool using PWA (ANGULAR) & PHP/MySQL.
-
-🌱 I’m currently learning: 
-Advance Nextjs and AWS Services.
-
-👯 I’m looking to collaborate on: 
-Fullstack projects.
+🔭 I’m currently working on: <br>Developing and Designing a powerfull POS tool using PWA (ANGULAR) & PHP/MySQL.<br><br>🌱 I’m currently learning: <br>Advance Nextjs and AWS Services.<br><br> 👯 I’m looking to collaborate on: <br>Fullstack projects.
 
 # 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
