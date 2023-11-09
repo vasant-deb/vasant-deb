@@ -1,4 +1,4 @@
-### Hi there 👋
+# ☑️ About Me
 
 I'm Vasant Sharma, a results-driven Full Stack Developer with over 5 years of experience in creating elegant and high-performing MEAN STACK and PHP/MySQL web applications. I'm passionate about crafting seamless user experiences and optimizing application performance.
 
@@ -21,12 +21,8 @@ Fullstack projects.
 ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%23172B4D.svg?style=for-the-badge&logo=agile-methodologies&logoColor=white) ![Cross-Browser Compatibility](https://img.shields.io/badge/Cross-Browser%20Compatibility-%234A86B1.svg?style=for-the-badge&logo=cross-browser-compatibility&logoColor=white) ![SEO Techniques](https://img.shields.io/badge/SEO%20Techniques-%2346A2F1.svg?style=for-the-badge&logo=seo-techniques&logoColor=white) ![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-%23684195.svg?style=for-the-badge&logo=mvc-architecture&logoColor=white) ![Ecommerce Strategies](https://img.shields.io/badge/Ecommerce%20Strategies-%23FF7E0E.svg?style=for-the-badge&logo=ecommerce-strategies&logoColor=white) ![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![HTTP Server Configuration](https://img.shields.io/badge/HTTP%20Server%20Configuration-%23000000.svg?style=for-the-badge&logo=http-server-configuration&logoColor=white) ![Content Management System](https://img.shields.io/badge/Content%20Management%20System-%232E7F3E.svg?style=for-the-badge&logo=content-management-system&logoColor=white)
 
 
-📫 How to reach me: 
-- [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=Gmail&logoColor=white)](mailto:iamvasantsharma@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/vasantsharma)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasant_artwork)
-
-- Instagram instagram.com/vasant_artwork/
+# 📫 How to reach me: 
+[![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=Gmail&logoColor=white)](mailto:iamvasantsharma@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/vasantsharma)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasant_artwork)
 
 ⚡ Fun fact: 
 I love creating pencil and digital sketches.
