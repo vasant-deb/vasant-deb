@@ -22,7 +22,7 @@ Fullstack projects.
 
 
 📫 How to reach me: 
-- [![Email](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Envelope&logoColor=white)] iamvasantsharma@gmail.com
+- [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=Gmail&logoColor=white)](mailto:iamvasantsharma@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/vasantsharma)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasant_artwork)
 
